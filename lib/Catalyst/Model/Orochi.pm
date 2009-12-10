@@ -102,7 +102,7 @@ __END__
 
 =head1 NAME
 
-Catalyst::Model::Orochi - Embed Orochi In Catalyst
+Catalyst::Model::Orochi - Catalyst-Orochi Integration
 
 =head1 SYNOPSIS
 
