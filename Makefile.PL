@@ -4,7 +4,6 @@ name 'Catalyst-Model-Orochi';
 all_from 'lib/Catalyst/Model/Orochi.pm';
 
 requires 'Catalyst', 5.8;
-requires 'Catalyst::Plugin::ConfigLoader';
 requires 'Orochi';
 
 tests 't/*.t';

@@ -2,7 +2,7 @@ package TestApp;
 use Moose;
 use namespace::autoclean;
 use Catalyst::Runtime 5.80;
-use Catalyst qw(-Debug ConfigLoader);
+use Catalyst qw(-Debug);
 
 extends 'Catalyst';
 
