@@ -3,7 +3,7 @@ use Moose;
 use Orochi;
 use namespace::autoclean;
 
-our $VERSION = '0.00001';
+our $VERSION = '0.00002';
 our $AUTHORITY = 'cpan:DMAKI';
 
 extends 'Catalyst::Model';

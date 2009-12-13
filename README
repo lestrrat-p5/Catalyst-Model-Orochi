@@ -1,5 +1,5 @@
 NAME
-    Catalyst::Model::Orochi - Embed Orochi In Catalyst
+    Catalyst::Model::Orochi - Catalyst-Orochi Integration
 
 SYNOPSIS
         # in your  MyApp::Model::Orochi
